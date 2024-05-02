@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {},
+    fontFamily: {
+      "font-Bai": ["Bai Jamjuree", "sans-serif"],
+    },
   },
   plugins: [],
 };
