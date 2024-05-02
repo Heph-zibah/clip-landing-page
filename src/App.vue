@@ -10,8 +10,8 @@
         <h1 class="font-bold text-[2rem] text-[#4c545d]">A history of everything you copy</h1>
         <p>Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</p>
         <div class="flex flex-col md:flex-row items-center gap-7 justify-center text-white">
-          <button class="bg-[#26baa4] px-20 md:px-10 py-4 rounded-full shadow">Download for iOS</button>
-          <button class="bg-[#6173ff] px-20 md:px-10 py-4 rounded-full shadow">Download for Mac</button>
+          <button class="bg-[#26baa4] px-20 md:px-10 py-4 rounded-full shadow-xl hover:drop-shadow-2xl">Download for iOS</button>
+          <button class="bg-[#6173ff] px-20 md:px-10 py-4 rounded-full shadow-xl hover:drop-shadow-2xl">Download for Mac</button>
         </div>
       </div>
     </header>
@@ -95,8 +95,8 @@
           <p>Available for free on the App Store. Download for Mac or iOS, sync with iCloud and you’re ready to start adding to your clipboard.</p>
         </div>
         <div class="flex flex-col md:flex-row items-center gap-7 justify-center text-white mt-10">
-          <button class="bg-[#26baa4] px-20 md:px-10 py-4 rounded-full shadow">Download for iOS</button>
-          <button class="bg-[#6173ff] px-20 md:px-10 py-4 rounded-full shadow">Download for Mac</button>
+          <button class="bg-[#26baa4] px-20 md:px-10 py-4 rounded-full shadow-xl hover:drop-shadow-2xl">Download for iOS</button>
+          <button class="bg-[#6173ff] px-20 md:px-10 py-4 rounded-full shadow-xl hover:drop-shadow-2xl">Download for Mac</button>
         </div>
       </section>
     </main>
@@ -126,7 +126,7 @@
           </div>
         </div>
         <div class="text-xs text-[#10111b] text-center">
-          <p>Challenge by <a href="#">Frontend Mentor</a>. Coded by <a href="#">oadaramola</a>.</p>
+          <p>Challenge by <a href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub">Frontend Mentor</a>. Coded by <a href="https://www.frontendmentor.io/profile/Heph-zibah">oadaramola</a>.</p>
         </div>
       </div>
     </footer>
